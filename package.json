@@ -14,7 +14,7 @@
     "bcryptjs": "^2.4.3",
     "csvtojson": "^2.0.10",
     "graphql-yoga": "^1.18.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.6.7",
     "validator": "^11.1.0"
   },
